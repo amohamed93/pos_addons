@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Point of Sale',
+    'name': 'Hide POS Product Info ',
     'version': '16.0.1.0.0',
     'category': 'Sales/Point of Sale',
     'author': 'Aya Sharaf Elden',
