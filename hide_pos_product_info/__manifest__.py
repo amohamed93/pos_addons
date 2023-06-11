@@ -14,9 +14,12 @@
     ],
     'installable': True,
     'application': True,
-        "assets": {
+    "assets": {
         "point_of_sale.assets": [
             "hide_pos_product_info/static/src/xml/Screens/ProductScreen/ControlButtons/ProductInfoButton.xml",
         ],
     },
+    'images': [
+        'static/description/before_config.png',
+    ]
 }
