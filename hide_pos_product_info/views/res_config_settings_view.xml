@@ -14,7 +14,7 @@
                     <div class="o_setting_right_pane">
                         <label for="pos_hide_product_info" />
                         <div class="text-muted">
-                            Hide product info button
+                            Allow Hide product info button
                         </div>
                     </div>
                 </div>
