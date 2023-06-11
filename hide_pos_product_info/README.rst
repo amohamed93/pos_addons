@@ -9,5 +9,3 @@ Configuration
 * Go to Point Of Sale / Configuration / Point of Sale
 * Check the box 'Hide Product Info '
 
-.. image:: /static/src/img/config.png
-
